@@ -1,2 +1,1 @@
-# aplicacao-csj
-CSJ Sistemas - Aplicação a vaga de desenvolvedor
+# CSJ Sistemas - Aplicação a vaga de desenvolvedor
